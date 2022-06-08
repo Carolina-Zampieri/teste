@@ -1,0 +1,35 @@
+@media screen and (max-width: 800px) {
+  .detalhe-laranja-mentee {
+      width: 12rem;
+  }
+
+  .detalhe-circulo-mentee {
+    width: 6rem;
+  }
+
+  .carousel-mentees{
+    width: 18rem;
+  }
+
+  .carousel-inner {
+    width: 10rem;
+  }
+
+  .carousel-item active {
+    width: 7rem;
+  }
+
+  .display-flex {
+    width: 6rem;
+  }
+
+  .carousel-content {
+    width: 8rem;
+    font-size: 0.5rem;
+  }
+
+  .img-mentee {
+    width: 5%;
+    flex-direction: row;
+  }
+}
